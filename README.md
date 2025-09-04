@@ -50,7 +50,7 @@ Enter "ftp.request.command==RETR" into the display filter field.
 
 -IP address: 192.168.0.50
 
-**This lab demonstrates the risks of suing the FTP protocol for file transfers within our company. The FTP protocol lacks encryption which poses significant security threats. FTP transmits data in plaintext leaving it vulnerable to interception. Users need to be using secure alternatives like SFTP or FTPS per our policy to ensure data confidentiality and integrity.**
+**This lab demonstrates the risks of using the FTP protocol for file transfers within our company. The FTP protocol lacks encryption which poses significant security threats. FTP transmits data in plaintext leaving it vulnerable to interception. Users need to be using secure alternatives like SFTP or FTPS per our policy to ensure data confidentiality and integrity.**
 
 
 
